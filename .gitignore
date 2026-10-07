@@ -1,0 +1,9 @@
+# Logs and Locks
+*.log
+.lock
+.lock_info
+
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
